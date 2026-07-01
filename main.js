@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbwEOfunJbNCn2ZUoEc9rDxuWYOuhSseDCUcgw_kr0qFOHUdPAtiPzx1xEB9BL4Xpu_y/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzQTNVe3C20JQ6SFlrZpTU_XXezNXQk2XGoqEt5A20EFv11a_kY2WCnR4FAMi59INI/exec";
 
 let globalInventory = [];
 let globalLogs = [];
